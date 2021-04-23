@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Hellom from JavaScript</h1>'
